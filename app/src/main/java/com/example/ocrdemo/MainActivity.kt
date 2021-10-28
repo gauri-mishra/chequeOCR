@@ -5,9 +5,10 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.ocr.ChequeOcr
-import com.example.ocr.models.ChequeData
-import com.example.ocr.models.OcrCallBack
+import com.example.chequeocr.ChequeOcr
+import com.example.chequeocr.models.ChequeData
+import com.example.chequeocr.models.OcrCallBack
+
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
